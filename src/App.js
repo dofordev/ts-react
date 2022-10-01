@@ -17,8 +17,6 @@ function App() {
         >
          a
           b
-          c
-          d
         </a>
       </header>
     </div>
